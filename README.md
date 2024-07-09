@@ -1,2 +1,2 @@
-# ExamProgram
-Assignment
+This code displays the exam program
+
